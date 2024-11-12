@@ -1,4 +1,5 @@
 Text and Morse Code Converter
+
 This React application allows users to easily convert text to Morse code and vice versa. The app provides two main functionalities:
 
 Text to Morse Code: Input text, and it will be converted into Morse code with appropriate symbols.
